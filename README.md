@@ -19,5 +19,5 @@ The application was fully coded in SwiftUI. The application is available for dev
 # Installation
 NOTE: You should own an Apple device (MacBook, Mac mini, iMac) in order to access the files using Xcode.
 
-Clone the repository on your machine and simply open the Bulgaria2Go.xcodeproj file. Everything should work from there.
+Clone the repository on your machine and simply open the HapticFeedback.xcodeproj file. Everything should work from there.
 
